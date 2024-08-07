@@ -5,9 +5,10 @@
 
 ## Description
 Ce projet est une démonstration de l'utilisation de données réelles avec des images de chiffres.
-Il utilise le jeu de données `digits` de `sklearn` pour entraîner un modèle de classification d'images en utilisant un classifieur SVM.
-Le modèle est ensuite testé sur de nouvelles images pour prédire le chiffre représenté.
-Le notebook montre également comment prétraiter les images et évaluer la performance du modèle.
+Il utilise le jeu de données `digits` de `sklearn` pour entraîner un modèle de
+classification d'images en utilisant un classifieur SVM. Le modèle est ensuite
+testé sur de nouvelles images pour prédire le chiffre représenté. Le notebook
+montre également comment prétraiter les images et évaluer la performance du modèle.
 
 ## Contenu
 
